@@ -1,38 +1,35 @@
-[![Ver Demo](https://img.shields.io/badge/-Ver%20Demo-informational?style=flat&logo=github&link=https://jose-daniel-g.github.io/ChurchSite_static/)](https://jose-daniel-g.github.io/ChurchSite_static/)
+# ChurchSite_static  
 
-[🚀 Ver demo de ChurchSite_static](https://jose-daniel-g.github.io/ChurchSite_static/)
-`Url: `https://jose-daniel-g.github.io/ChurchSite_static/
+[![Ver Demo](https://img.shields.io/badge/-Ver%20Demo-informational?style=flat&logo=github)](https://jose-daniel-g.github.io/ChurchSite_static/)  
+[🚀 Ver demo de ChurchSite_static](https://jose-daniel-g.github.io/ChurchSite_static/)  
+**URL:** [https://jose-daniel-g.github.io/ChurchSite_static/](https://jose-daniel-g.github.io/ChurchSite_static/)  
 
+---
 
-## Screenshots
+## 📸 Screenshots  
 
-![Vista principal del proyecto](images/image.png)
-![image](images/image1.png)
-![phone](images/image2.png)
+![Vista principal del proyecto](images/image.png)  
+![Vista adicional](images/image1.png)  
+![Vista en teléfono](images/image2.png)  
 
-### **SOURCES AND CREDITS**:
+---
 
-I've used the following resources as listed.
+## 📚 Fuentes y Créditos  
 
-Fonts:
- - Lora Font (https://fonts.google.com/specimen/Lora)
- - Montserrat Font (https://fonts.google.com/specimen/Montserrat) 
- - Open Sans Font (https://fonts.google.com/specimen/Open+Sans)
+**Fonts:**  
+- [Lora](https://fonts.google.com/specimen/Lora)  
+- [Montserrat](https://fonts.google.com/specimen/Montserrat)  
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans)  
 
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
- 
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Parallax.js (http://pixelcog.github.io/parallax.js/)
+**Icons:**  
+- [Iconmonstr](https://iconmonstr.com/)  
 
--------------------------------------------------------------------------------------------------------
+**Stock Photos and Graphics:**  
+- [Unsplash](https://unsplash.com/)  
 
+**Javascript Libraries:**  
+- [jQuery](http://jquery.com/)  
+- [Modernizr](http://modernizr.com/)  
+- [Parallax.js](http://pixelcog.github.io/parallax.js/)  
 
-
-
-
+---
