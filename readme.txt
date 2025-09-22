@@ -1,4 +1,4 @@
-[![Ver Demo](https://img.shields.io/badge/-Ver%20Demo-informational?style=flat&logo=github&link=https://jose-daniel-g.github.io/AngularAdvengers/)](https://jose-daniel-g.github.io/ChurchSite_static/)
+[![Ver Demo](https://img.shields.io/badge/-Ver%20Demo-informational?style=flat&logo=github&link=https://jose-daniel-g.github.io/ChurchSite_static/)](https://jose-daniel-g.github.io/ChurchSite_static/)
 
 [🚀 Ver demo de ChurchSite_static](https://jose-daniel-g.github.io/ChurchSite_static/)
 `Url: `https://jose-daniel-g.github.io/ChurchSite_static/
