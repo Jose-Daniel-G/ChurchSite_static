@@ -8,9 +8,14 @@
 
 ## 📸 Screenshots  
 
-![Vista principal del proyecto](images/image.png)  
-![Vista adicional](images/image1.png)  
-![Vista en teléfono](images/image2.png)  
+| Frontend (Vista adicional) | Frontend (Vista en teléfono) |
+|----------------------------|------------------------------|
+| ![Vista adicional](images/image1.png) | ![Vista en teléfono](images/image2.png) |
+
+| Vista principal del proyecto |
+|------------------------------|
+| ![Vista principal del proyecto](images/image.png) |
+
 
 ---
 
